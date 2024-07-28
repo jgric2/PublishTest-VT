@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/nl8jRs4QGou34JkMLynGr7zGuaeq6SKnODgYVUlAMF6ncmhtxMOC38qPfrAtbNOVaffpt3CXQVnd/Nc/5hFjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\PublishTest\\PublishTest\\PublishTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

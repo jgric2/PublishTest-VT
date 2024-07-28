@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows8.0\PublishTest.exe
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows8.0\PublishTest.deps.json
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows8.0\PublishTest.runtimeconfig.json
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows8.0\PublishTest.dll
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows8.0\PublishTest.pdb
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.Form1.resources
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.dll
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\refint\PublishTest.dll
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.pdb
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\PublishTest.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PublishTest\PublishTest\obj\Release\net8.0-windows8.0\ref\PublishTest.dll

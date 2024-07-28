@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows\publish\win-x64\PublishTest.pdb
+C:\Users\Admin\source\repos\PublishTest\PublishTest\bin\Release\net8.0-windows\publish\win-x64\PublishTest.exe
